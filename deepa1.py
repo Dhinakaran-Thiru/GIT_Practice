@@ -5,6 +5,6 @@ jk;ehjewfkjwe
 ekhverjk;e
 khveveve
 vdjvpeegit
-print(dhinakarm)
+print(dhinakaran)
 print(changed file
 print(dhinakaran new)
