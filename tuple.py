@@ -13,3 +13,18 @@ A=tuple(B)
 print(A)
 """for i in range(0,99):
     print("99x",i,"=" ,i*99)"""
+fruits = ("apple", "banana", "cherry")
+
+(green, yellow, red) = fruits
+
+print(green)
+print(yellow)
+print(red)
+
+fruits = ("apple", "mango", "papaya", "pineapple", "cherry")
+
+(green, *tropic, red) = fruits
+
+print(green)
+print(tropic)
+print(red)
