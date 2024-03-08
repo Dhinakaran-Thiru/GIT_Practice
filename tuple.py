@@ -28,3 +28,17 @@ fruits = ("apple", "mango", "papaya", "pineapple", "cherry")
 print(green)
 print(tropic)
 print(red)
+tuple1=["dhinakaran","deepika","deepa"]
+tuple2=list(tuple1)
+tuple2[0]="deena"
+tuple1=tuple(tuple2)
+print(tuple1)
+
+
+
+thistuple = ("apple", "banana", "cherry")
+y = ("orange",)
+thistuple += y
+
+print(thistuple)
+
